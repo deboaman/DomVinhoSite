@@ -1,0 +1,8 @@
+name = "domvinhosite"
+compatibility_date = "2026-10-10"
+main = "worker.js"
+
+[assets]
+directory = "."
+binding = "ASSETS"
+not_found_handling = "single-page-application"
