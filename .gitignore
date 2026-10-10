@@ -3,3 +3,6 @@ index.backup.html
 *.backup.html
 node_modules/
 .DS_Store
+
+# Documentação sensível — nunca subir pro GitHub
+entrega/
